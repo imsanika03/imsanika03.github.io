@@ -6,4 +6,4 @@ nav: true
 nav_order: 3
 ---
 
-Write about your industry experience here.
+I am currently a machine learning engineer at [Mara](https://www.linkedin.com/company/mara-defense/posts/?feedView=all). Committed to building ethical systems.
