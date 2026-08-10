@@ -8,10 +8,11 @@ nav_order: 2
 
 ## Research
 
-**NePPO: Near-Potential Policy Optimization for General-Sum Multi-Agent Reinforcement Learning**
-<br>Addison Kalanther, Sanika Bharvirkar, Shankar Sastry, Chinmay Maheshwari
-<br>*IEEE Conference on Decision and Control (CDC), 2026* [Accepted]
-<br>[arXiv](https://arxiv.org/pdf/2603.06977)
+**NePPO: Near-Potential Policy Optimization for General-Sum Multi-Agent Reinforcement Learning** *[Accepted, IEEE Conference on Decision and Control (CDC), 2026]*
+
+Addison Kalanther, Sanika Bharvirkar, Shankar Sastry, Chinmay Maheshwari
+
+[arXiv](https://arxiv.org/pdf/2603.06977)
 
 We propose NePPO, a multi-agent RL algorithm for approximating Nash equilibria in general-sum games. It learns a player-independent potential function by minimizing a novel objective with zeroth-order gradient descent.
 
